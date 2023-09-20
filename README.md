@@ -24,7 +24,7 @@ The main objective of this project is to analyze data from the T20 Cricket world
 ### Steps Involved:
 
 1. **Data Collection using Bright Data Web Scraping:**
-   - Utilize Bright Data web scraping to collect comprehensive data from the official Galactic T20 Cricket Tournament website.
+   - Utilize Bright Data web scraping to collect comprehensive data from the espncricinfo website related to the Cricket T20 World Cup (2022).
 
 2. **Data Transformation and Cleaning using Pandas:**
    - Process the scraped data and transform it into a usable format for analysis using Python and the Pandas library.
